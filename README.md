@@ -1,4 +1,4 @@
-# Bramhos — OCR Validation & Text Matching Tool
+# OCR-Validator  — OCR Validation & Text Matching Tool
 
 A Python utility for comparing expected text against OCR-extracted text from images. Perfect for verifying OCR outputs, debugging text recognition, or automatically validating image and text file pairs.
 
@@ -49,8 +49,8 @@ brew install tesseract
 
 **3. Clone Repository (Optional)**
 ```bash
-git clone https://github.com/Lavish-code/Bramhos.git
-cd Bramhos
+git clone https://github.com/Lavish-code/OCR-Validator .git
+cd OCR-Validator 
 ```
 
 ---
@@ -158,7 +158,7 @@ outputs/
 ## 📂 Project Structure
 
 ```
-Bramhos/
+OCR-Validator /
 │
 ├── ocr_validation.py    # Main validation script
 ├── README.md            # Documentation
@@ -233,7 +233,7 @@ This project is open source. Check the repository for license details.
 
 ## 📞 Support
 
-For issues, questions, or feature requests, please visit the [GitHub repository](https://github.com/Lavish-code/Bramhos).
+For issues, questions, or feature requests, please visit the [GitHub repository](https://github.com/Lavish-code/OCR-Validator ).
 
 ---
 
