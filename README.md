@@ -1,4 +1,4 @@
-# OCR-Validator  — OCR Validation & Text Matching Tool
+# OCR-Validator  — OCR Validation & Text Matching Tools
 
 A Python utility for comparing expected text against OCR-extracted text from images. Perfect for verifying OCR outputs, debugging text recognition, or automatically validating image and text file pairs.
 
